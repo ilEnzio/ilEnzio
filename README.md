@@ -9,7 +9,7 @@ I'm Erle a software/data engineer very interested in data analysis, data enginee
 - 🔭 I’m currently working on ...Dashboards for Twitch Streamers and Fans of F1 racing!
 - 🌱 I’m currently learning ...F#(Functional Programming)
 - 👯 I’m looking to collaborate on ...anything involving Functional Programming
-- 🤔 I’m looking for help with ...Functional Programming - specifically OCaml
+- 🤔 I’m looking for help with ...Functional Programming - specifically F#
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... He/Him
