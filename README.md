@@ -9,7 +9,7 @@ I'm Erle a software/data engineer very interested in functional programming.  I 
 - 🔭 I’m currently working on ...Poker Training Tool
 - 🌱 I’m currently learning ...Scala(Functional Programming)
 - 👯 I’m looking to collaborate on ...anything involving Functional Programming
-- 🤔 I’m looking for help with ...Functional Programming - specifically Type-level Scala
+- 🤔 I’m looking for help with ...Free Monads
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... He/Him
